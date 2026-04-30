@@ -1,12 +1,3 @@
-<div align="center">
-
-   ███████╗ ██████╗██████╗  █████╗ ██████╗ ███████╗██████╗ 
-  ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
-  ███████╗██║     ██████╔╝███████║██████╔╝█████╗  ██████╔╝
-   ╚════██║██║     ██╔══██╗██╔══██║██╔═══╝ ██╔══╝  ██╔══██╗
-   ███████║╚██████╗██║  ██║██║  ██║██║     ███████╗██║  ██║
-   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
-
 **Automated deal scraper → affiliate link converter → Telegram broadcaster**
 
 [![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-4285F4?style=flat-square&logo=google)](https://script.google.com)
