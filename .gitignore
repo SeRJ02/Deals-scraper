@@ -1,0 +1,34 @@
+# ============================================================
+# Deals-scraper — .gitignore
+# ============================================================
+
+# ── Secrets / Credentials ────────────────────────────────────
+# NEVER commit files containing API keys or tokens
+secrets.gs
+config.local.gs
+*.env
+.env*
+credentials.json
+token.json
+
+# ── Google Apps Script local tooling ─────────────────────────
+# If using clasp (Apps Script CLI) for local development
+.clasp.json
+appsscript.json
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor files ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Node (if using clasp locally) ────────────────────────────
+node_modules/
+package-lock.json
+yarn.lock
